@@ -2258,7 +2258,7 @@ select {
     margin: 0 15px;
   }
   .header-wrap .navbar .navbar-nav .nav-item a {
-    font-size: 17px;
+    font-size: 20px;
   }
 }
 @media only screen and (min-width: 1600px) {
@@ -2928,15 +2928,15 @@ select {
    Hero  Section  CSS
 -------------------------------*/
 .hero-bg-one {
-  background-image: url(../img/hero/hero-img-5.jpg);
+  background-image: url(../img/hero/hero.png);
 }
 
 .hero-bg-two {
-  background-image: url(../img/hero/hero-img-6.jpg);
+  background-image: url(../img/hero/hero2.jpg);
 }
 
 .hero-bg-three {
-  background-image: url(../img/hero/hero-img-7.jpg);
+  background-image: url(../img/hero/hero3.jpg);
 }
 
 .hero-wrap {
@@ -5781,7 +5781,7 @@ article {
 -----------------------------------*/
 .footer-wrap {
   position: relative;
-  background-color: #14467B;
+  background-color: #072340;
 }
 .footer-wrap .footer-widget {
   margin-bottom: 25px;
